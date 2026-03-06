@@ -1,6 +1,6 @@
-# tr-ai-glossary
+# [tr-ai-glossary](https://github.com/gungorMetehan/tr-ai-glossary/blob/main/tr-ai-glossary.md)
 
-Bu repository, **Yapay Zeka**, **Makine Öğrenmesi**, **Derin Öğrenme** ve **Veri Bilimi** alanlarında kullanılan İngilizce teknik terimlerin Türkçe karşılıklarını derlemek amacıyla oluşturulmuştur. Farklı kaynaklarda geçen terim çevirilerinin birbirinden nasıl farklılaştığını görmek, çevirilerin yaygınlığını fark etmek ve mümkünse ilk terim çevirilerinin kaynaklarına gitmenin alana katkı sağlayacağı düşünülmüştür. Bu bağlamda, sizlerin de özellikle bir terimin ilk çevirilerinden birine ya da burada yer alan çevirilerden farklı bir Türkçe çevirisine rastladığınızda paylaşmanız projeye katkı sağlayacaktır.
+[Bu repository](https://github.com/gungorMetehan/tr-ai-glossary/blob/main/tr-ai-glossary.md), **Yapay Zeka**, **Makine Öğrenmesi**, **Derin Öğrenme** ve **Veri Bilimi** alanlarında kullanılan İngilizce teknik terimlerin Türkçe karşılıklarını derlemek amacıyla oluşturulmuştur. Farklı kaynaklarda geçen terim çevirilerinin birbirinden nasıl farklılaştığını görmek, çevirilerin yaygınlığını fark etmek ve mümkünse ilk terim çevirilerinin kaynaklarına gitmenin alana katkı sağlayacağı düşünülmüştür. Bu bağlamda, sizlerin de özellikle bir terimin ilk çevirilerinden birine ya da burada yer alan çevirilerden farklı bir Türkçe çevirisine rastladığınızda paylaşmanız projeye katkı sağlayacaktır.
 Sözlükte her terim için şu bilgiler sunulur:
 
 1) İngilizce terim
